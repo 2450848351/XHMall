@@ -16,6 +16,8 @@
         <module>order</module>
         <module>product</module>
         <module>coupon</module>
+        <module>renren-generator</module>
+        <module>renren-fast</module>
+        <module>xhmall-common</module>
     </modules>
-
 </project>
